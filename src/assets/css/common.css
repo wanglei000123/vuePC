@@ -1,0 +1,9 @@
+.treeStyle .is-leaf + span{
+    color: blue;
+}
+
+.itemActiveBc .el-menu-item.is-active {
+    /* background-color: #247bb4 !important; */
+    /* background-color: #0073C6 !important; */
+    background-color: #3bb3c3 !important;
+}
